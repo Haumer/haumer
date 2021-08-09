@@ -5,4 +5,4 @@
 
 - 🔭 I’m currently working at [Lewagon](https://www.lewagon.com)
 
-- 📫 How to reach me **haumer@hey.com**
+- 📫 How to reach me **alexander.haumer@me.com**
