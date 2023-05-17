@@ -3,6 +3,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haumer&label=Profile%20views&color=0e75b6&style=flat" alt="haumer" /> </p>
 
-- 🔭 I’m currently working at [Nurole](https://www.nurole.com/)
-
 - 📫 How to reach me **alexander.haumer@me.com**
