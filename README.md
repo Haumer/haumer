@@ -9,4 +9,4 @@
 
 - ⚡ <a href="https://github.com/Haumer/turbo_chat">turbo_chat</a> – A high-performance chat foundation built for rapid iteration, streaming, and AI-native UX experiments.
 
-- 📫 How to reach me **alexander.haumer@me.com**
+- 📫 How to reach me **ajphaumer@gmail.com**
