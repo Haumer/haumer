@@ -11,6 +11,8 @@
 
 - ⚡ <a href="https://github.com/Haumer/turbo_chat">turbo_chat</a> – A minimal, extensible chat scaffold for building AI-native interfaces fast.
 
-- 🔗 <a href="https://github.com/patterns-ai-core/langchainrb">langchainrb</a> – Model Context Protocol (MCP) integration for structured tool execution.
+- 🧩 <a href="https://github.com/patterns-ai-core/langchainrb">langchainrb</a> – Ruby LLM interface for building and orchestrating AI workflows.
+
+- 🔗 <a href="https://github.com/modelcontextprotocol/ruby-sdk">ruby-sdk (MCP)</a> – Model Context Protocol integration for structured tool execution.
 
 - 📫 How to reach me **ajphaumer@gmail.com**
