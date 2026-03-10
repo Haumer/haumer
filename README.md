@@ -16,3 +16,9 @@
 - 🔗 <a href="https://github.com/modelcontextprotocol/ruby-sdk">ruby-sdk (MCP)</a> – Model Context Protocol integration for structured tool execution.
 
 - 📫 How to reach me **ajphaumer@gmail.com**
+
+
+ ## 🏗️  Fun Stuff                                                                
+   
+  - 🏎️  <a href="https://github.com/Haumer/f1">f1</a> – Full-stack Rails app for 
+  F1 stats, Elo ratings, fantasy leagues, and race predictions.
