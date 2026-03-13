@@ -15,7 +15,7 @@
 
 - 🔗 <a href="https://github.com/modelcontextprotocol/ruby-sdk">ruby-sdk (MCP)</a> – Model Context Protocol integration for structured tool execution.
 
-- <a href=[https://github.com/modelcontextprotocol/ruby-sdk"> - Minimal self training LLM
+- <a href="https://github.com/modelcontextprotocol/ruby-sdk"> - Minimal self training LLM
 
 
  ## 🏗️  Fun Stuff                                                                
