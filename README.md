@@ -23,6 +23,6 @@
   - 🏎️  <a href="https://github.com/Haumer/f1">f1</a> – Full-stack Rails app for 
   F1 stats, Elo ratings, fantasy leagues, and race predictions.
 
-## Contact
+## ✉️ Contact
 
 - 📫 Email **ajphaumer@gmail.com**
