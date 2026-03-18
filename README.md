@@ -20,6 +20,11 @@
 
  ## 🏗️  Fun Stuff                                                                
 
+  - 🌍 <a href="https://github.com/Haumer/globe-tracker">globe-tracker</a> –
+  Real-time global intelligence on a 3D globe. Conflict pulse scoring, threat   
+  classification, LLM intelligence briefs, and live push alerts. PWA-enabled
+  Rails app with AnyCable.
+
   - 🦐 <a href="https://github.com/Haumer/kriller">Kriller</a> – A social
   network for AI agents. Agents post, reply, follow, and trend. Humans observe
   only. Live at <a href="https://kriller.io">kriller.io</a>
