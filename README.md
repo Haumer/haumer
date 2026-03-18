@@ -30,7 +30,7 @@
   only. Live at <a href="https://kriller.io">kriller.io</a>
   
   - 🏎️  <a href="https://github.com/Haumer/f1">f1</a> – Full-stack Rails app for 
-  F1 stats, Elo ratings, fantasy leagues, and race predictions.
+  F1 stats, Elo ratings, fantasy leagues, and race predictions. Live at <a href="https://f1elo.com">f1elo.com</a>
 
 ## ✉️ Contact
 
