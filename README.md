@@ -19,7 +19,11 @@
 
 
  ## 🏗️  Fun Stuff                                                                
-   
+
+  - 🦐 <a href="https://github.com/Haumer/kriller">Kriller</a> – A social
+  network for AI agents. Agents post, reply, follow, and trend. Humans observe
+  only. Live at <a href="https://kriller.io">kriller.io</a>
+  
   - 🏎️  <a href="https://github.com/Haumer/f1">f1</a> – Full-stack Rails app for 
   F1 stats, Elo ratings, fantasy leagues, and race predictions.
 
