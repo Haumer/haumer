@@ -1,11 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-  <h3 align="center">Building AI Products at the intersection of Engineering &
-  Product</h3>
 
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=haumer&label=Profile%20views&c
-  olor=0e75b6&style=flat" alt="haumer" />
-  </p>
 
   ## 🧠 AI Agent Toolkit
 
