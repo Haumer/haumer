@@ -1,4 +1,6 @@
-
+<h1 align="center">Hi 👋, I'm Alex</h1>
+  <h3 align="center">Building AI Products at the intersection of Engineering &
+  Product</h3>
 
   ## 🧠 AI Agent Toolkit
 
