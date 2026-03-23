@@ -13,6 +13,8 @@
   - 🧩 <a href="https://github.com/patterns-ai-core/langchainrb">langchainrb</a>
    – Ruby LLM interface for building and orchestrating AI workflows.
 
+  - 🔗 <a href="https://github.com/langchain-ai/langgraph">langgraph</a>
+
   - 🔗 <a href="https://github.com/modelcontextprotocol/ruby-sdk">ruby-sdk
   (MCP)</a> – Model Context Protocol integration for structured tool execution.
 
