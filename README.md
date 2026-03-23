@@ -4,27 +4,14 @@
 
   ## 🧠 AI Agent Toolkit
 
-  - 🔍 <a href="https://github.com/Haumer/bot_lense">bot_lense</a> – Turns model
-   outputs into bot-readable, structured agent actions.
-
-  - ⚡ <a href="https://github.com/Haumer/turbo_chat">turbo_chat</a> – A
-  minimal, extensible chat scaffold for building AI-native interfaces fast.
-
-  - 🧩 <a href="https://github.com/patterns-ai-core/langchainrb">langchainrb</a>
-   – Ruby LLM interface for building and orchestrating AI workflows.
-
-  - 🔗 <a href="https://github.com/langchain-ai/langgraph">langgraph</a>
-
-  - 🔗 <a href="https://github.com/modelcontextprotocol/ruby-sdk">ruby-sdk
-  (MCP)</a> – Model Context Protocol integration for structured tool execution.
-
-  - 🧠 <a href="https://github.com/modelcontextprotocol/ruby-sdk">Nanochat</a> –
-   Minimal self-training LLM.
-
-  - 🛡️  <a href="https://github.com/Haumer/redact-api">redact-api</a> –
-  Privacy-preserving API that detects and redacts sensitive data (names, IBANs,
-  API keys, financials) before sending text to AI services. 3-layer detection:
-  regex, custom rules, and pluggable LLM review.
+  - 🔍 <a href="https://github.com/Haumer/bot_lense">bot_lense</a> – Turns model outputs into bot-readable, structured agent actions.
+  - ⚡ <a href="https://github.com/Haumer/turbo_chat">turbo_chat</a> – A minimal, extensible chat scaffold for building AI-native interfaces fast.
+  - 💎 <a href="https://github.com/patterns-ai-core/langchainrb">langchainrb</a> – Ruby LLM interface for building and orchestrating AI workflows.
+  - 🕸️ <a href="https://github.com/langchain-ai/langgraph">langgraph</a> – Low-level orchestration framework for building stateful, multi-actor AI agents as graphs.
+  - 🔭 <a href="https://github.com/langchain-ai/langsmith-sdk">langsmith</a> – Observability and evaluation SDK for debugging, tracing, and monitoring LLM applications.
+  - 🔌 <a href="https://github.com/modelcontextprotocol/ruby-sdk">ruby-sdk (MCP)</a> – Model Context Protocol integration for structured tool execution.
+  - 🧠 <a href="https://github.com/modelcontextprotocol/ruby-sdk">Nanochat</a> – Minimal self-training LLM.
+  - 🛡️  <a href="https://github.com/Haumer/redact-api">redact-api</a> – Privacy-preserving API that detects and redacts sensitive data (names, IBANs, API keys, financials) before       sending text to AI services. 3-layer detection: regex, custom rules, and pluggable LLM review.
 
   ## 🏗️  Fun Stuff
 
