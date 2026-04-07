@@ -1,33 +1,47 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-  <h3 align="center">Building AI Products at the intersection of Engineering &
-  Product</h3>
+# Alex Haumer
+                                                                              
+  Building AI-powered software and shipping it fast. Vienna-based, working    
+  worldwide.
+                                                                              
+  ---                                                       
 
-  ## 🧠 AI Agent Toolkit
+  ## Products                                                                 
+  
+  - 🛡️  [Redact API](https://github.com/Haumer/redact-api) — Privacy-preserving
+   API that strips PII (names, IBANs, API keys) before text reaches an LLM.
+  Three-layer detection pipeline. Live at                                     
+  [redact.haumer.ai](https://redact.haumer.ai)              
+  - 📦 [Onpack](https://onpack.io) — Turn packaging into smart touchpoints.
+  Unique QR codes per unit, scan analytics, loyalty points, and campaign      
+  activations. Live at [onpack.io](https://onpack.io)
+  - ✉️  [Organise Mail](https://mail.haumer.ai) — AI-powered email triage.     
+  Categorisation, priority surfacing, and actionable summaries. Live at       
+  [mail.haumer.ai](https://mail.haumer.ai)
+  - 🌍 [Globetracker](https://github.com/Haumer/globe-tracker) — Real-time    
+  global signal aggregation on a 3D globe. Conflict scoring, threat           
+  classification, LLM briefs, live push alerts. Live at
+  [globe.haumer.ai](https://globe.haumer.ai)                                  
+                                                            
+  ## AI Toolkit
 
-  - 🔍 <a href="https://github.com/Haumer/bot_lense">bot_lense</a> – Turns model outputs into bot-readable, structured agent actions.
-  - ⚡ <a href="https://github.com/Haumer/turbo_chat">turbo_chat</a> – A minimal, extensible chat scaffold for building AI-native interfaces fast.
-  - 💎 <a href="https://github.com/patterns-ai-core/langchainrb">langchainrb</a> – Ruby LLM interface for building and orchestrating AI workflows.
-  - 🕸️ <a href="https://github.com/langchain-ai/langgraph">langgraph</a> – Low-level orchestration framework for building stateful, multi-actor AI agents as graphs.
-  - 🔭 <a href="https://github.com/langchain-ai/langsmith-sdk">langsmith</a> – Observability and evaluation SDK for debugging, tracing, and monitoring LLM applications.
-  - 🔌 <a href="https://github.com/modelcontextprotocol/ruby-sdk">ruby-sdk (MCP)</a> – Model Context Protocol integration for structured tool execution.
-  - 🧠 <a href="https://github.com/modelcontextprotocol/ruby-sdk">Nanochat</a> – Minimal self-training LLM.
-  - 🛡️  <a href="https://github.com/Haumer/redact-api">redact-api</a> – Privacy-preserving API that detects and redacts sensitive data (names, IBANs, API keys, financials) before       sending text to AI services. 3-layer detection: regex, custom rules, and pluggable LLM review.
+  - [bot_lense](https://github.com/Haumer/bot_lense) — Turns model outputs    
+  into structured, bot-readable agent actions
+  - [turbo_chat](https://github.com/Haumer/turbo_chat) — Minimal, extensible  
+  chat scaffold for AI-native interfaces                                      
+  - [langchainrb](https://github.com/patterns-ai-core/langchainrb) — Ruby LLM
+  interface for building and orchestrating AI workflows                       
+  - [ruby-sdk (MCP)](https://github.com/modelcontextprotocol/ruby-sdk) — Model
+   Context Protocol integration for structured tool execution                 
+                                                            
+  ## Proof of Concepts                                                        
+                                                            
+  - 🦐 [Kriller](https://github.com/Haumer/kriller) — A social network for AI 
+  agents. Agents post, reply, follow, and trend. Humans observe only. Live at
+  [kriller.io](https://kriller.io)                                            
+  - 🏎️  [F1Elo](https://github.com/Haumer/f1) — F1 stats, Elo ratings, fantasy
+  leagues, and agent-generated race predictions. Live at                      
+  [f1elo.com](https://f1elo.com)
 
-  ## 🏗️  Fun Stuff
-
-  - 🌍 <a href="https://github.com/Haumer/globe-tracker">globe-tracker</a> –
-  Real-time global intelligence on a 3D globe. Conflict pulse scoring, threat
-  classification, LLM intelligence briefs, and live push alerts. PWA-enabled
-  Rails app with AnyCable.
-
-  - 🦐 <a href="https://github.com/Haumer/kriller">Kriller</a> – A social
-  network for AI agents. Agents post, reply, follow, and trend. Humans observe
-  only. Live at <a href="https://kriller.io">kriller.io</a>
-
-  - 🏎️  <a href="https://github.com/Haumer/f1">f1</a> – Full-stack Rails app for
-  F1 stats, Elo ratings, fantasy leagues, and race predictions. Live at <a 
-  href="https://f1elo.com">f1elo.com</a>
-
-  ## ✉️  Contact
+  ## Contact
 
   - 📫 Email **ajphaumer@gmail.com**
