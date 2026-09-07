@@ -15,7 +15,7 @@
 
 A public product page for every SKU, resolved from the GTIN already printed on the pack (GS1 Digital Link), and a unique code inside every unit. Brands get scan analytics, unit-level traceability and campaign activations. Customers get the truth about what they're holding. Plus a straight, sourced answer on what the EU Digital Product Passport actually means for food.
 
-| | |
+| Product | What it is |
 |---|---|
 | **Pack Identity** | One page per product. Canonical GS1 Digital Link URIs (AI 01 / 10 / 17 / 21 / 22), RFC 9264 linkset in the `Link:` header, content negotiation across HTML / JSON-LD / linkset, `/.well-known/gs1resolver`. |
 | **Pack Experience** | One code per unit. Scan analytics, traceability, loyalty and campaign activations. |
