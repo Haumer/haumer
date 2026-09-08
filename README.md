@@ -21,7 +21,7 @@ A public product page for every SKU, resolved from the GTIN already printed on t
 | **Pack Experience** | One code per unit. Scan analytics, traceability, loyalty and campaign activations. |
 | **EU rules, answered** | Wine e-labels (Reg. (EU) 2021/2117), PPWR, GS1 Sunrise 2027 and the DPP, explained without the fear-mongering → [onpack.io/rules-en](https://onpack.io/rules-en) |
 
-Verified operator in the EU DPP Registry acceptance environment. Built in Austria for DACH food & drink brands. Ruby on Rails, Hotwire, Hetzner.
+Verified operator in the EU DPP Registry acceptance environment. Built in Austria for DACH food & drink brands.
 
 ## 🧪 haumer.ai
 
