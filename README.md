@@ -35,13 +35,17 @@ Small, sharp products I run on my own domain.
 
 ## 🤖 AI toolkit
 
-Claude Code skills I wrote and use daily. Packaged, downloadable set coming soon.
+Claude Code skills I wrote and use daily. All of them, with an installer and their dependencies, in [**Haumer/claude-skills**](https://github.com/Haumer/claude-skills).
 
 - **deep-research** — fans out parallel sub-agents over the browser and the web, then renders a sourced, opinionated PDF brief. Not prose, not slop.
 - **design-document** — papers, reports, memos and letters as well-typeset PDFs via Typst, APA7 conventions, global document IDs.
 - **walkthrough** — annotated live product tours in your own browser: impersonate a user, drive a journey step by step, log every bug hit.
 - **gemini** — Gemini from the shell: image generation with reference composition, text, key lookup, output decoding.
 - **branchit / shipit** — branch + worktree in one command, then test, merge, deploy and smoke-test prod in another.
+
+```bash
+git clone https://github.com/Haumer/claude-skills ~/code/claude-skills && ~/code/claude-skills/install.sh
+```
 
 Repos I build on and contribute to:
 
